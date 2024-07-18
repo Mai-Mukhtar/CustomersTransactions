@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CustomersTransactions/static/css/main.232171c9.css",
-    "main.js": "/CustomersTransactions/static/js/main.bfa17805.js",
+    "main.css": "/CustomersTransactions/static/css/main.3c7640c6.css",
+    "main.js": "/CustomersTransactions/static/js/main.bf7a2283.js",
     "static/js/453.f7729e06.chunk.js": "/CustomersTransactions/static/js/453.f7729e06.chunk.js",
     "static/media/fa-solid-900.ttf": "/CustomersTransactions/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/fa-brands-400.ttf": "/CustomersTransactions/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
@@ -13,12 +13,12 @@
     "static/media/fa-v4compatibility.ttf": "/CustomersTransactions/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
     "static/media/fa-v4compatibility.woff2": "/CustomersTransactions/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/CustomersTransactions/index.html",
-    "main.232171c9.css.map": "/CustomersTransactions/static/css/main.232171c9.css.map",
-    "main.bfa17805.js.map": "/CustomersTransactions/static/js/main.bfa17805.js.map",
+    "main.3c7640c6.css.map": "/CustomersTransactions/static/css/main.3c7640c6.css.map",
+    "main.bf7a2283.js.map": "/CustomersTransactions/static/js/main.bf7a2283.js.map",
     "453.f7729e06.chunk.js.map": "/CustomersTransactions/static/js/453.f7729e06.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.232171c9.css",
-    "static/js/main.bfa17805.js"
+    "static/css/main.3c7640c6.css",
+    "static/js/main.bf7a2283.js"
   ]
 }
